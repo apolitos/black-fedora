@@ -35,7 +35,7 @@ O instalador automático por script e a imagem oficial do sistema serão liberad
 
 Por enquanto, você pode acompanhar o roadmap, sugerir ferramentas e trocar ideias direto com a equipe no nosso servidor:
 
-:loudspeaker: **Acompanhe o desenvolvimento no nosso Discord:** https://discord.gg/ZJC44xTg9z)
+:loudspeaker: **Acompanhe o desenvolvimento no nosso Discord:** (https://discord.gg/ZJC44xTg9z)
 
 ---
 
