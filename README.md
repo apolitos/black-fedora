@@ -15,7 +15,7 @@ Quando for lançado, o ecossistema será dividido em duas edições:
 
 1. **Workstation Edition (Base Arch Linux):** 
    * **Foco:** Uso diário, produtividade e programação.
-   * A velocidade do Arch, o poder do AUR e um ambiente minimalista feito para devs.
+   * A velocidade do Fedora, o poder do AUR e um ambiente minimalista feito para devs.
 
 2. **Security Edition (Base Fedora):**
    * **Foco:** Cibersegurança, Pentest e Auditoria.
